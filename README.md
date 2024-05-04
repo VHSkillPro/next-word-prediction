@@ -10,7 +10,7 @@
   - **The gioi** gồm có 5.716 bài báo.
   - **The thao** gồm có 5.667 bài báo.
   - **Van hoa** gồm có 5.250 bài báo.
-- preprocessing.zip - Tập dữ liệu đã được tiền xử lý từ datasets.zip:
+- preprocessing_datasets.zip - Tập dữ liệu đã được tiền xử lý từ datasets.zip:
   - Bỏ đi các dấu câu bao gồm !"#$%&'()*+, -./:;<=>?@[\\]^_`{|}~
   - Chuyển tất cả các ký tự hoa thành ký tự thường.
   - Loại bỏ các ký tự trắng liên tiếp.
